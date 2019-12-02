@@ -1,0 +1,25 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha lib/**/**.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://yannthomassen.visualstudio.com/Advent-of-Code/_git/Advent-of-Code"
+  },
+  "keywords": [
+    "advent",
+    "code",
+    "2019",
+    "javascript"
+  ],
+  "author": "Yannick Thomassen <YannThomassen@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
